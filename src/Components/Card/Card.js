@@ -30,8 +30,8 @@ export default function Card(props) {
                 {
                     props.cardDetails.tag.map((tag) => {
                         return(
-                            <div className="card-tag-box">
-                                <div className="card-tag-title">{tag}</div>
+                            <div >
+                                <div className="card-tag-btn"><i class="fa-solid fa-circle"></i>&nbsp;{tag}</div>
                             </div>
                         )
                     })
