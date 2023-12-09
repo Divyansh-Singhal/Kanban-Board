@@ -1,27 +1,33 @@
 
-Kanban Board 📋
+# Kanban Board 📋
 A dynamic Kanban Board website that utilizes the Quicksell API to fetch and display data. This project allows you to organize and visualize tasks efficiently.
-
-Features 🚀
+<br/>
+## Features 🚀
 Sorting: Arrange tasks by status, user, or priority.
 Ordering: Easily switch between sorting by title or priority.
 Responsive: User-friendly design for seamless desktop and mobile experiences.
-Getting Started 🛠️
+<br/>
+## Getting Started 🛠️
 Clone the repository.
 Install dependencies with npm install.
 Run the app with npm start.
-Technologies Used 💻
+<br/>
+## Technologies Used 💻
 React.js
 Axios for API calls
-API Endpoint 🌐
+<br/>
+## API Endpoint 🌐
 Fetches data from <a href="https://api.quicksell.co/v1/internal/frontend-assignment">Quicksell API</a>.
-Usage 🤖
+<br/>
+## Usage 🤖
 Choose sorting criteria using the Navbar.
 Explore tasks grouped by status, user, or priority.
-Contribute 🤝
+<br/>
+## Contribute 🤝
 Feel free to contribute by opening issues or creating pull requests.
+<br/>
 
-Author 🧑‍💻
+## Author 🧑‍💻
 Divyansh Singhal
-
+<br/>
 Happy coding! 🚀✨
